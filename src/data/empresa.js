@@ -40,7 +40,7 @@ export const empresa = {
       cargo: "CEO e Engenheiro de Software",
       foto: "/images/wanderson.jpg",
       alt: "Foto de Wanderson de Vasconcelos",
-      descricao: "Fundador da TED System, começou desenvolvendo sistemas de gestão para comércios locais do interior do Nordeste."
+      descricao: "Fundador da TED System, começou desenvolvendo sistemas de gestão para o interior do Nordeste."
     },
     {
       nome: "Sheldon Cooper",
@@ -55,6 +55,13 @@ export const empresa = {
       foto: "/images/amy.jpg",
       alt: "Foto de Amy Farrah Fowler",
       descricao: "Responsável por estruturar e proteger os bancos de dados dos clientes."
+    },
+    {
+      nome: "Leonard Hofstadter",
+      cargo: "Engenheiro de Qualidade (QA)",
+      foto: "/images/leonardo.jpg",
+      alt: "Foto de Leonard Hofstadter",
+      descricao: "Responsável por testar, validar e garantir o funcionamento estável das aplicações dos clientes."
     }
   ]
 };
