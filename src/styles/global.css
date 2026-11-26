@@ -2,7 +2,7 @@
 :root {
   /* Paleta de Cores baseada no Logo */
   --cor-primaria: #0d1520; /* Quase preto */
-  --cor-secundaria: #0058ec; /* Azul escuro do degradê (links e botões) */
+  --cor-secundaria: #0042b4; /* Azul escuro do degradê (links e botões) */
   --cor-destaque: #008ff7; /* Azul claro do degradê (decorativo) */
   --cor-fundo: #ffffff;
   --cor-fundo-alt: #f8fafc;
@@ -13,7 +13,7 @@
   --cor-borda: #e2e8f0;
   
   /* Variável para o Hero */
-  --cor-hero-fim: #00224d;
+  --cor-hero-fim: #0053c0;
 
   /* Degradês Globais */
   --degrade-marca: linear-gradient(

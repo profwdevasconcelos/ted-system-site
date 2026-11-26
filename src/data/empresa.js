@@ -1,6 +1,6 @@
 export const empresa = {
   nome: "TED System",
-  slogan: "Tecnologia que evolui com o seu negócio.",
+  slogan: "Tecnologia que evolui com o seu negócio",
   historia:
     "Fundada em 2018 na cidade de Piripiri, no Piauí, a TED System nasceu do sonho do engenheiro de software Wanderson de Vasconcelos de aproximar a tecnologia de qualidade das pequenas e médias empresas do interior do Nordeste. O que começou como um projeto de freelancer, desenvolvendo sistemas de gestão para comércios locais, cresceu com a chegada de Sheldon Cooper, especialista em desenvolvimento Full Stack, e de Amy Farrah Fowler, responsável por estruturar e proteger os bancos de dados dos clientes. Hoje, a TED System é uma software house reconhecida pela entrega de soluções sob medida, com foco em qualidade de código, segurança da informação e atendimento próximo aos clientes.",
   missao:
