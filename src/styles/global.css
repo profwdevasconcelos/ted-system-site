@@ -13,7 +13,7 @@
   --cor-borda: #e2e8f0;
   
   /* Variável para o Hero */
-  --cor-hero-fim: #0053c0;
+  --cor-hero-fim: #0f77ff;
 
   /* Degradês Globais */
   --degrade-marca: linear-gradient(
@@ -22,7 +22,7 @@
     var(--cor-destaque)
   );
   --degrade-hero: linear-gradient(
-    135deg,
+    140deg,
     var(--cor-primaria),
     var(--cor-hero-fim)
   );
